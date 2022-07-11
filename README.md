@@ -14,6 +14,7 @@ This is an actual information about our validators. Projects. Guides
 - Minima
 - Masa Finance
 - StarkNet (devnet)
+- peaq
 
 ## Testnet ended
 - Akash Network
