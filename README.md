@@ -12,6 +12,7 @@ This is an actual information about our validators. Projects. Guides
 - IronFish | [leaderboard](https://testnet.ironfish.network/users/43310)
 - Massa | 
 - Minima
+- Masa Finance
 - StarkNet (devnet)
 
 ## Testnet ended
