@@ -6,7 +6,7 @@ This is an actual information about our validators. Projects. Guides
 ## Testnets active
 - Defund | [explorer](https://defund.explorers.guru/validator/defundvaloper1k2eyun8cn54q9ry4vyn4k69u0g2j8gsu0ef9kv)
 - StaFi | [explorer](https://testnet-explorer.stafihub.io/stafi-hub-testnet/staking/stafivaloper1dy3lzpqygh9kgmccf4uwpwzthkekw5k0eyv7rd)
-- Sei | 
+- Sei | [explorer](https://sei.explorers.guru/validator/seivaloper1unhs60sxaq2432p32mq0xk6gmns0cnjeyxkwls)
 - Quicksilver | [explorer](https://quicksilver.explorers.guru/validator/quickvaloper150fjce8p3j6j64axzjhhfz0exk4kda79z29hk7)
 - Paloma | 
 - IronFish | [leaderboard](https://testnet.ironfish.network/users/43310)
