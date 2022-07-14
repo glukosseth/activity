@@ -10,7 +10,7 @@ This is an actual information about our validators. Projects. Guides
 - Quicksilver | [explorer](https://quicksilver.explorers.guru/validator/quickvaloper150fjce8p3j6j64axzjhhfz0exk4kda79z29hk7)
 - Paloma | 
 - IronFish | [leaderboard](https://testnet.ironfish.network/users/43310)
-- Massa | 
+- Massa | [explorer](https://massa.net/testnet/A12Lax9Re3KPvhST24dhNTf2beZavt2asbEWY3D8c7D6k29Y5a6N)
 - Minima
 - Masa Finance
 - StarkNet (devnet)
