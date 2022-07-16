@@ -7,7 +7,6 @@ This is an actual information about our validators. Projects. Guides
 - Defund | [explorer](https://defund.explorers.guru/validator/defundvaloper1k2eyun8cn54q9ry4vyn4k69u0g2j8gsu0ef9kv)
 - StaFi | [explorer](https://testnet-explorer.stafihub.io/stafi-hub-testnet/staking/stafivaloper1dy3lzpqygh9kgmccf4uwpwzthkekw5k0eyv7rd)
 - Sei | [explorer](https://sei.explorers.guru/validator/seivaloper1unhs60sxaq2432p32mq0xk6gmns0cnjeyxkwls)
-- Quicksilver | [explorer](https://quicksilver.explorers.guru/validator/quickvaloper150fjce8p3j6j64axzjhhfz0exk4kda79z29hk7)
 - Paloma | 
 - IronFish | [leaderboard](https://testnet.ironfish.network/users/43310)
 - Massa | [explorer](https://massa.net/testnet/A12Lax9Re3KPvhST24dhNTf2beZavt2asbEWY3D8c7D6k29Y5a6N)
@@ -23,6 +22,7 @@ This is an actual information about our validators. Projects. Guides
 - Archway
 - Ares Protocol
 - Subspace
+- Quicksilver 
 
 ## Guides
 Please note that most of the guides (anywhere) contain minimal guides and do not cover more advanced topics such as Sentry node architecture and double signature protection.
@@ -34,3 +34,4 @@ Please note that most of the guides (anywhere) contain minimal guides and do not
 - [UnUniFi](https://github.com/glukosseth/testnet_guide/blob/main/cosmos/ununifi/install_node.md)
 - [Masa Finance](https://github.com/glukosseth/testnet_guide/blob/main/masa_finance/install_node.md)
 - [StarkNet](https://github.com/glukosseth/testnet_guide/blob/main/starknet/install_node.md)
+- [Massa](https://github.com/glukosseth/testnet_guide/blob/main/massa/install_node.md)
