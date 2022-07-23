@@ -3,7 +3,10 @@ This is an actual information about our validators. Projects. Guides
 ## Mainnets
 - UnUniFi | [explorer](https://ununifi.io/explorer/validators/ununifivaloper1ydtts8a9r5jr0qmls9cy60p2j9ewvg6mk0rsrd)
 
-## Testnets active
+## Testnets
+
+#### Active:
+
 - Defund | [explorer](https://defund.explorers.guru/validator/defundvaloper1k2eyun8cn54q9ry4vyn4k69u0g2j8gsu0ef9kv)
 - StaFi | [explorer](https://testnet-explorer.stafihub.io/stafi-hub-testnet/staking/stafivaloper1dy3lzpqygh9kgmccf4uwpwzthkekw5k0eyv7rd)
 - Sei | [explorer](https://sei.explorers.guru/validator/seivaloper1unhs60sxaq2432p32mq0xk6gmns0cnjeyxkwls)
@@ -14,17 +17,25 @@ This is an actual information about our validators. Projects. Guides
 - Masa Finance
 - StarkNet (devnet)
 - peaq
+- Stride | [explorer](https://stride.explorers.guru/validator/stridevaloper1hm0hm24x3ejjtclz07ughwtltd9dslhk7wmj5z)
+- Bundlr
+</details>
 
-## Testnet ended
+<details>
+<summary>Ended</summary>
+
 - Akash Network
 - Stratos
-- Quai Network
+- Quai Network - Bronse Age
 - Archway
 - Ares Protocol
-- Subspace
-- Quicksilver 
+- Subspace - Gemini1
+- Quicksilver - KillerQueen
+
+</details>
 
 ## Guides
+
 Please note that most of the guides (anywhere) contain minimal guides and do not cover more advanced topics such as Sentry node architecture and double signature protection.
 - [DeFund](https://github.com/glukosseth/testnet_guide/blob/main/cosmos/defund/install_node.md)
 - [StaFi](https://github.com/glukosseth/testnet_guide/blob/main/cosmos/stafi/install_node.md)
@@ -35,3 +46,4 @@ Please note that most of the guides (anywhere) contain minimal guides and do not
 - [Masa Finance](https://github.com/glukosseth/testnet_guide/blob/main/masa_finance/install_node.md)
 - [StarkNet](https://github.com/glukosseth/testnet_guide/blob/main/starknet/install_node.md)
 - [Massa](https://github.com/glukosseth/testnet_guide/blob/main/massa/install_node.md)
+- [Stride](https://github.com/glukosseth/testnet_guide/blob/main/cosmos/stride/install_node.md)
