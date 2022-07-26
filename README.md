@@ -19,6 +19,7 @@ This is an actual information about our validators. Projects. Guides
 - peaq
 - Stride | [explorer](https://stride.explorers.guru/validator/stridevaloper1hm0hm24x3ejjtclz07ughwtltd9dslhk7wmj5z)
 - Bundlr
+- Sui
 </details>
 
 <details>
