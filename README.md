@@ -8,9 +8,7 @@ This is an actual information about our validators. Projects. Guides
 #### Active:
 
 - Defund | [explorer](https://defund.explorers.guru/validator/defundvaloper1k2eyun8cn54q9ry4vyn4k69u0g2j8gsu0ef9kv)
-- StaFi | [explorer](https://testnet-explorer.stafihub.io/stafi-hub-testnet/staking/stafivaloper1dy3lzpqygh9kgmccf4uwpwzthkekw5k0eyv7rd)
 - Sei | [explorer](https://sei.explorers.guru/validator/seivaloper1unhs60sxaq2432p32mq0xk6gmns0cnjeyxkwls)
-- Paloma | 
 - IronFish | [leaderboard](https://testnet.ironfish.network/users/43310)
 - Massa | [explorer](https://massa.net/testnet/A12Lax9Re3KPvhST24dhNTf2beZavt2asbEWY3D8c7D6k29Y5a6N)
 - Minima
@@ -21,6 +19,7 @@ This is an actual information about our validators. Projects. Guides
 - Bundlr
 - Sui (devnet)
 - Near
+- obol
 </details>
 
 <details>
@@ -31,8 +30,10 @@ This is an actual information about our validators. Projects. Guides
 - Quai Network - Bronse Age
 - Archway
 - Ares Protocol
+- Paloma
 - Subspace - Gemini1
 - Quicksilver - KillerQueen
+- StaFi - public testnet №1-3
 
 </details>
 
@@ -49,3 +50,4 @@ Please note that most of the guides (anywhere) contain minimal guides and do not
 - [StarkNet](https://github.com/glukosseth/testnet_guide/blob/main/starknet/install_node.md)
 - [Massa](https://github.com/glukosseth/testnet_guide/blob/main/massa/install_node.md)
 - [Stride](https://github.com/glukosseth/testnet_guide/blob/main/cosmos/stride/install_node.md)
+- [obol](https://github.com/glukosseth/testnet_guide/blob/main/obol/create_enr.md)
