@@ -2,6 +2,7 @@
 This is an actual information about our validators. Projects. Guides
 ## Mainnets
 - UnUniFi | [explorer](https://ununifi.io/explorer/validators/ununifivaloper1ydtts8a9r5jr0qmls9cy60p2j9ewvg6mk0rsrd)
+- Ares Protocol | [explorer](https://aresscan.aresprotocol.io/odyssey/account/4VRX7U6AGqQjowBNreNcBo82nZAVcEcNntAoXDNZzqgQ2VtZ)
 
 ## Testnets
 
