@@ -16,10 +16,8 @@ This is an actual information about our validators. Projects. Guides
 - Masa Finance
 - StarkNet (devnet)
 - peaq
-- Stride | [explorer](https://stride.explorers.guru/validator/stridevaloper1hm0hm24x3ejjtclz07ughwtltd9dslhk7wmj5z)
 - Bundlr
 - Sui (devnet)
-- Near
 - obol
 </details>
 
@@ -35,6 +33,7 @@ This is an actual information about our validators. Projects. Guides
 - Subspace - Gemini1
 - Quicksilver - KillerQueen
 - StaFi - public testnet №1-3
+- Stride - PoolParty
 
 </details>
 
