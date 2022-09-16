@@ -3,6 +3,7 @@ This is an actual information about our validators. Projects. Guides
 ## Mainnets
 - UnUniFi | [explorer](https://ununifi.io/explorer/validators/ununifivaloper1ydtts8a9r5jr0qmls9cy60p2j9ewvg6mk0rsrd)
 - Ares Protocol | [explorer](https://aresscan.aresprotocol.io/odyssey/account/4VRX7U6AGqQjowBNreNcBo82nZAVcEcNntAoXDNZzqgQ2VtZ)
+- Rebus | [explorer](https://rebus.explorers.guru/validator/rebusvaloper1lx6v8y99xrylq3llapke5lnln4sht66f372gkg)
 
 ## Testnets
 
@@ -19,7 +20,8 @@ This is an actual information about our validators. Projects. Guides
 - Bundlr (devnet)
 - Sui (devnet)
 - obol
-- Subspase - Gemini2 (stress test)
+- Subspase - Gemini2
+- haqq | [explorer](https://haqq.explorers.guru/validator/haqqvaloper13eqtwyfn74r87gqzpjertmhwzkwc3jrdfvkl0q)
 </details>
 
 <details>
@@ -52,3 +54,5 @@ Please note that most of the guides (anywhere) contain minimal guides and do not
 - [Massa](https://github.com/glukosseth/testnet_guide/blob/main/massa/install_node.md)
 - [Stride](https://github.com/glukosseth/testnet_guide/blob/main/cosmos/stride/install_node.md)
 - [obol](https://github.com/glukosseth/testnet_guide/blob/main/obol/create_enr.md)
+- [Rebus](https://github.com/glukosseth/testnet_guide/blob/main/cosmos/rebus/install_node.md)
+- [haqq]
