@@ -20,9 +20,10 @@ This is an actual information about our validators. Projects. Guides
 - peaq
 - Bundlr (devnet)
 - Sui (devnet)
-- obol
+- obol | [explorer](https://prater.beaconcha.in/validator/a4df046bbea8bb831a6f4133bf8f05ff9dbc89abb77613052ed8f6c1ccbdb486d52c55a76395f5d13644d5361e5a16c7#attestations)
 - Subspase - Gemini2
 - haqq | [explorer](https://haqq.explorers.guru/validator/haqqvaloper13eqtwyfn74r87gqzpjertmhwzkwc3jrdfvkl0q)
+- hypersign | [explorer](https://explorer.nodestake.top/hypersign-testnet/staking/hidvaloper1hm0hm24x3ejjtclz07ughwtltd9dslhkrpwf33)
 </details>
 
 <details>
