@@ -23,6 +23,7 @@ This is an actual information about our validators. Projects. Guides
 - Subspase - Gemini2
 - haqq | [explorer](https://haqq.explorers.guru/validator/haqqvaloper13eqtwyfn74r87gqzpjertmhwzkwc3jrdfvkl0q)
 - hypersign | [explorer](https://explorer.nodestake.top/hypersign-testnet/staking/hidvaloper1hm0hm24x3ejjtclz07ughwtltd9dslhkrpwf33)
+- ollo | [explorer](http://explorer.creeptah.xyz/ollo/staking/ollovaloper1hm0hm24x3ejjtclz07ughwtltd9dslhk3nxkjg)
 </details>
 
 <details>
