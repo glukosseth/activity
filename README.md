@@ -1,4 +1,4 @@
-# creeptah validators
+# CosmoBook validators
 This is an actual information about our validators. Projects. Guides
 ## Mainnets
 - UnUniFi | [explorer](http://explorer.creeptah.xyz/UnUniFi/staking/ununifivaloper1ydtts8a9r5jr0qmls9cy60p2j9ewvg6mk0rsrd)
@@ -58,4 +58,4 @@ Please note that most of the guides (anywhere) contain minimal guides and do not
 - [obol](https://github.com/glukosseth/testnet_guide/blob/main/obol/create_enr.md)
 - [Rebus](https://github.com/glukosseth/testnet_guide/blob/main/cosmos/rebus/install_node.md)
 - [haqq](https://github.com/glukosseth/testnet_guide/blob/main/cosmos/haqq/install_node.md)
-- [hypersign](https://github.com/glukosseth/testnet_guide/tree/main/cosmos/hypersign/install_node.md)
+- [Hypersign](https://github.com/glukosseth/testnet_guide/tree/main/cosmos/hypersign/install_node.md)
