@@ -1,4 +1,4 @@
-# CosmoBook validators
+# creeptah validators (CosmoBook moniker)
 This is an actual information about our validators. Projects. Guides
 ## Mainnets
 - UnUniFi | [explorer](http://explorer.creeptah.xyz/UnUniFi/staking/ununifivaloper1ydtts8a9r5jr0qmls9cy60p2j9ewvg6mk0rsrd)
