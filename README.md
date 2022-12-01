@@ -12,7 +12,6 @@ This is an actual information about our validators. Projects. Guides
 #### Active:
 
 - Defund | [explorer](https://defund.explorers.guru/validator/defundvaloper1k2eyun8cn54q9ry4vyn4k69u0g2j8gsu0ef9kv)
-- IronFish | [leaderboard](https://testnet.ironfish.network/users/43310)
 - Massa | [explorer](https://massa.net/testnet/A12Lax9Re3KPvhST24dhNTf2beZavt2asbEWY3D8c7D6k29Y5a6N)
 - Minima
 - Masa Finance
@@ -44,7 +43,7 @@ This is an actual information about our validators. Projects. Guides
 - Subspase - Gemini2
 - haqq
 - ollo
-
+- IronFish
 </details>
 
 ## Guides
