@@ -4,13 +4,14 @@ This is an actual information about our validators. Projects. Guides
 - UnUniFi | [explorer](http://explorer.creeptah.xyz/UnUniFi/staking/ununifivaloper1ydtts8a9r5jr0qmls9cy60p2j9ewvg6mk0rsrd)
 - Rebus | [explorer](http://explorer.creeptah.xyz/REBUS/staking/rebusvaloper1lx6v8y99xrylq3llapke5lnln4sht66f372gkg)
 - Umee | [explorer](https://umee.explorers.guru/validator/umeevaloper1y5w9vx6qe0ta55z44l505lvmcl9qqjx48733ck)
+- Stride | [explorer](https://stride.explorers.guru/validator/stridevaloper17er4grs2pw4mst9dtqyx4wrr9s8l5puuyfux5f)
+- Nomic | [explorer](https://nomic.zenscan.io/validator.php?addr=nomic1dnzukwt5p5zzf2p7k5hm057c9539t07tqcezre)
 
 ## Testnets
 
 #### Active:
 
 - Defund | [explorer](https://defund.explorers.guru/validator/defundvaloper1k2eyun8cn54q9ry4vyn4k69u0g2j8gsu0ef9kv)
-- Sei
 - IronFish | [leaderboard](https://testnet.ironfish.network/users/43310)
 - Massa | [explorer](https://massa.net/testnet/A12Lax9Re3KPvhST24dhNTf2beZavt2asbEWY3D8c7D6k29Y5a6N)
 - Minima
@@ -19,11 +20,10 @@ This is an actual information about our validators. Projects. Guides
 - peaq
 - Bundlr (devnet)
 - Sui (devnet)
-- obol | [explorer](https://prater.beaconcha.in/validator/a4df046bbea8bb831a6f4133bf8f05ff9dbc89abb77613052ed8f6c1ccbdb486d52c55a76395f5d13644d5361e5a16c7#attestations)
-- Subspase - Gemini2
-- haqq | [explorer](https://haqq.explorers.guru/validator/haqqvaloper13eqtwyfn74r87gqzpjertmhwzkwc3jrdfvkl0q)
 - hypersign | [explorer](https://explorer.nodestake.top/hypersign-testnet/staking/hidvaloper1hm0hm24x3ejjtclz07ughwtltd9dslhkrpwf33)
-- ollo | [explorer](http://explorer.creeptah.xyz/ollo/staking/ollovaloper1hm0hm24x3ejjtclz07ughwtltd9dslhk3nxkjg)
+- Uptick | [explorer](https://uptick.explorers.guru/validator/uptickvaloper13eqtwyfn74r87gqzpjertmhwzkwc3jrd8hxdq2)
+- okp4 | [explorer]
+
 </details>
 
 <details>
@@ -39,6 +39,11 @@ This is an actual information about our validators. Projects. Guides
 - Quicksilver - KillerQueen
 - StaFi - public testnet №1-3
 - Stride - PoolParty
+- Sei - Seinami
+- obol | [explorer](https://prater.beaconcha.in/validator/a4df046bbea8bb831a6f4133bf8f05ff9dbc89abb77613052ed8f6c1ccbdb486d52c55a76395f5d13644d5361e5a16c7#attestations)
+- Subspase - Gemini2
+- haqq | [explorer](https://haqq.explorers.guru/validator/haqqvaloper13eqtwyfn74r87gqzpjertmhwzkwc3jrdfvkl0q)
+- ollo | [explorer](http://explorer.creeptah.xyz/ollo/staking/ollovaloper1hm0hm24x3ejjtclz07ughwtltd9dslhk3nxkjg)
 
 </details>
 
