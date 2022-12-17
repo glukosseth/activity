@@ -6,6 +6,7 @@ This is an actual information about our validators. Projects. Guides
 - Umee | [explorer](https://umee.explorers.guru/validator/umeevaloper1y5w9vx6qe0ta55z44l505lvmcl9qqjx48733ck)
 - Stride | [explorer](https://stride.explorers.guru/validator/stridevaloper17er4grs2pw4mst9dtqyx4wrr9s8l5puuyfux5f)
 - Nomic | [explorer](https://nomic.zenscan.io/validator.php?addr=nomic1dnzukwt5p5zzf2p7k5hm057c9539t07tqcezre)
+- Quicksilver | [explorer](https://quicksilver.explorers.guru/validator/quickvaloper150fjce8p3j6j64axzjhhfz0exk4kda79z29hk7)
 
 ## Testnets
 
@@ -21,7 +22,7 @@ This is an actual information about our validators. Projects. Guides
 - Sui (devnet)
 - hypersign | [explorer](https://explorer.nodestake.top/hypersign-testnet/staking/hidvaloper1hm0hm24x3ejjtclz07ughwtltd9dslhkrpwf33)
 - Uptick | [explorer](https://uptick.explorers.guru/validator/uptickvaloper13eqtwyfn74r87gqzpjertmhwzkwc3jrd8hxdq2)
-- okp4 | [explorer]
+- okp4 | [explorer](https://explorer.bccnodes.com/okp4/staking/okp4valoper1hm0hm24x3ejjtclz07ughwtltd9dslhkxt2nw3)
 
 </details>
 
