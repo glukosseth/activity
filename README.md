@@ -21,8 +21,8 @@ This is an actual information about our validators. Projects. Guides
 - Bundlr (devnet)
 - hypersign | [explorer](https://explorer.nodestake.top/hypersign-testnet/staking/hidvaloper1hm0hm24x3ejjtclz07ughwtltd9dslhkrpwf33)
 - okp4 | [explorer](https://explorer.bccnodes.com/okp4/staking/okp4valoper1hm0hm24x3ejjtclz07ughwtltd9dslhkxt2nw3)
-- Nibiru | [explorer](href="http://explorer.creeptah.xyz/nibiru/staking/nibivaloper172n97097femjp5e0kfak5a7365lk6h2heujuu5)
-- Ojo | [explorer](href="http://explorer.creeptah.xyz/ojo/staking/ojovaloper1hm0hm24x3ejjtclz07ughwtltd9dslhkysaf6l)
+- Nibiru | [explorer](http://explorer.creeptah.xyz/nibiru/staking/nibivaloper172n97097femjp5e0kfak5a7365lk6h2heujuu5)
+- Ojo | [explorer](http://explorer.creeptah.xyz/ojo/staking/ojovaloper1hm0hm24x3ejjtclz07ughwtltd9dslhkysaf6l)
 - Humans | [explorer](http://explorer.creeptah.xyz/humans/staking/humanvaloper13eqtwyfn74r87gqzpjertmhwzkwc3jrdf4mr9d)
 
 <details>
