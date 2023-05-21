@@ -7,8 +7,8 @@ This is an actual information about our validators. Projects. Guides
 - Stride | [explorer](http://explorer.creeptah.xyz/stride/staking/stridevaloper17er4grs2pw4mst9dtqyx4wrr9s8l5puuyfux5f)
 - Nomic | [explorer](https://nomic.zenscan.io/validator.php?addr=nomic1dnzukwt5p5zzf2p7k5hm057c9539t07tqcezre)
 - Quicksilver | [explorer](http://explorer.creeptah.xyz/quicksilver/staking/quickvaloper150fjce8p3j6j64axzjhhfz0exk4kda79z29hk7)
-- Planq | [explorer](href="http://explorer.creeptah.xyz/planq/staking/plqvaloper1nnygsslaytzs5ncm396j800sj5nld0hk5tyl4m)
-- Secret Network | [explorer](href="http://explorer.creeptah.xyz/secret-network/staking/secretvaloper1dpyhgvmc7qwxgtg8gcvcx62znmaqtp40plffst)
+- Planq | [explorer](http://explorer.creeptah.xyz/planq/staking/plqvaloper1nnygsslaytzs5ncm396j800sj5nld0hk5tyl4m)
+- Secret Network | [explorer](http://explorer.creeptah.xyz/secret-network/staking/secretvaloper1dpyhgvmc7qwxgtg8gcvcx62znmaqtp40plffst)
 
 ## Testnets
 
