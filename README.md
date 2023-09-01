@@ -16,9 +16,6 @@ This is an actual information about our validators. Projects. Guides
 
 #### Active:
 
-- Defund | [explorer](https://defund.explorers.guru/validator/defundvaloper1k2eyun8cn54q9ry4vyn4k69u0g2j8gsu0ef9kv)
-- StarkNet
-- peaq
 - Hypersign | [explorer](https://explorer.nodestake.top/hypersign-testnet/staking/hidvaloper1hm0hm24x3ejjtclz07ughwtltd9dslhkrpwf33)
 - Okp4 | [explorer](https://explorer.bccnodes.com/okp4/staking/okp4valoper1hm0hm24x3ejjtclz07ughwtltd9dslhkxt2nw3)
 - Nibiru | [explorer](http://explorer.creeptah.xyz/nibiru/staking/nibivaloper172n97097femjp5e0kfak5a7365lk6h2heujuu5)
@@ -50,6 +47,9 @@ This is an actual information about our validators. Projects. Guides
 - Massa
 - Bundlr (devnet)
 - Humans
+- Defund
+- StarkNet
+- peaq
 </details>
 
 ## Guides
