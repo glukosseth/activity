@@ -61,17 +61,6 @@ This is an actual information about our validators. Projects. Guides
 ## Guides
 
 Please note that most of the guides (anywhere) contain minimal guides and do not cover more advanced topics such as Sentry node architecture and double signature protection.
-- [DeFund](https://github.com/glukosseth/testnet_guide/blob/main/cosmos/defund/install_node.md)
-- [StaFi](https://github.com/glukosseth/testnet_guide/blob/main/cosmos/stafi/install_node.md)
-- [Sei](https://github.com/glukosseth/testnet_guide/blob/main/cosmos/sei/install_node.md)
-- [Quicksilver](https://github.com/glukosseth/testnet_guide/blob/main/cosmos/quicksilver/install_node.md)
-- [Paloma](https://github.com/glukosseth/testnet_guide/blob/main/cosmos/paloma/install_node.md)
-- [UnUniFi](https://github.com/glukosseth/testnet_guide/blob/main/cosmos/ununifi/install_node.md)
-- [Masa Finance](https://github.com/glukosseth/testnet_guide/blob/main/masa_finance/install_node.md)
-- [StarkNet](https://github.com/glukosseth/testnet_guide/blob/main/starknet/install_node.md)
-- [Massa](https://github.com/glukosseth/testnet_guide/blob/main/massa/install_node.md)
-- [Stride](https://github.com/glukosseth/testnet_guide/blob/main/cosmos/stride/install_node.md)
-- [obol](https://github.com/glukosseth/testnet_guide/blob/main/obol/create_enr.md)
-- [Rebus](https://github.com/glukosseth/testnet_guide/blob/main/cosmos/rebus/install_node.md)
-- [haqq](https://github.com/glukosseth/testnet_guide/blob/main/cosmos/haqq/install_node.md)
-- [Hypersign](https://github.com/glukosseth/testnet_guide/tree/main/cosmos/hypersign/install_node.md)
+- [Install nodes](https://github.com/glukosseth/gitbook_creeptah)
+- [Install utils and infrastructure](https://github.com/glukosseth/gitbook_creeptah/tree/main/utils)
+- [Decentralization maps of nodes](https://github.com/glukosseth/geostat)
