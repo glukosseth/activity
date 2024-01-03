@@ -1,6 +1,7 @@
 # creeptah validators (CosmoBook moniker)
 This is an actual information about our validators. Projects. Guides
 ## Mainnets
+
 - UnUniFi     | [explorer](https://explorer.creeptah.xyz/UnUniFi/staking/ununifivaloper1ydtts8a9r5jr0qmls9cy60p2j9ewvg6mk0rsrd)
 - Humans      | [explorer](https://explorer.creeptah.xyz/humans/staking/humanvaloper1mynwzahw0kgcsanw5y7z63lp7kk98wrjsxfgg0)
 - Umee        | [explorer](https://explorer.creeptah.xyz/umee/staking/umeevaloper1y5w9vx6qe0ta55z44l505lvmcl9qqjx48733ck)
@@ -8,6 +9,7 @@ This is an actual information about our validators. Projects. Guides
 - Quicksilver | [explorer](https://explorer.creeptah.xyz/quicksilver/staking/quickvaloper150fjce8p3j6j64axzjhhfz0exk4kda79z29hk7)
 - Planq       | [explorer](https://explorer.creeptah.xyz/planq/staking/plqvaloper1nnygsslaytzs5ncm396j800sj5nld0hk5tyl4m)
 
+[monitoring](https://monitoring.creeptah.xyz)
 ## IBC Relayers
 - Umee <> Stride
 - Umee <> Quicksilver
@@ -26,6 +28,7 @@ This is an actual information about our validators. Projects. Guides
 - Okp4        | [explorer](https://explorer.creeptah.xyz/testnet-okp4/staking/okp4valoper1hm0hm24x3ejjtclz07ughwtltd9dslhkxt2nw3)
 - Ojo         | [explorer](https://explorer.creeptah.xyz/ojo/staking/ojovaloper1hm0hm24x3ejjtclz07ughwtltd9dslhkysaf6l)
 
+[monitoring](https://testnet-monitoring.creeptah.xyz)
 <details>
 <summary>Ended</summary>
 
