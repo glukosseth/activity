@@ -11,7 +11,6 @@ This is an actual information about our validators. Projects. Guides
 
 [monitoring](https://monitoring.creeptah.xyz)
 ## IBC Relayers
-- Umee <> Stride
 - Umee <> Quicksilver
 - Osmo <> Umee
 - Osmo <> Quicksilver
@@ -66,4 +65,4 @@ This is an actual information about our validators. Projects. Guides
 Please note that most of the guides (anywhere) contain minimal guides and do not cover more advanced topics such as Sentry node architecture and double signature protection.
 - [Install nodes](https://github.com/glukosseth/gitbook_creeptah)
 - [Install utils and infrastructure](https://github.com/glukosseth/gitbook_creeptah/tree/main/utils)
-- [Decentralization maps of nodes](https://github.com/glukosseth/geostat)
+- [Decentralization map of nodes](https://github.com/glukosseth/geostat)
