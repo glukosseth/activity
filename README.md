@@ -1,4 +1,4 @@
-# creeptah validators (CosmoBook moniker)
+# Creeptah validator (CosmoBook moniker)
 This is an actual information about our validators. Projects. Guides
 ## Mainnets
 
