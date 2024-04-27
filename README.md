@@ -25,7 +25,7 @@ This is an actual information about our validators. Projects. Guides
 - Nomic       | [explorer](https://testnet.nomic.io/staking?validator=nomic1emuda4e5x2ss5638tj5m0mv4e5m92nxyzmg7j9&modal=info)
 - Hypersign   | [explorer](https://explorer.creeptah.xyz/testnet-hypersign/staking/hidvaloper1hm0hm24x3ejjtclz07ughwtltd9dslhkrpwf33)
 - Ojo         | [explorer](https://explorer.creeptah.xyz/ojo/staking/ojovaloper1hm0hm24x3ejjtclz07ughwtltd9dslhkysaf6l)
-- Side        | [https://testnet.side.explorers.guru/validator/bcvaloper15tanw9mqlazsclhe7yyxkv2rwpp0j9ae2ke3c2]
+- Side        | [explorer](https://testnet.side.explorers.guru/validator/bcvaloper15tanw9mqlazsclhe7yyxkv2rwpp0j9ae2ke3c2)
 
 [monitoring](https://testnet-monitoring.creeptah.xyz)
 <details>
